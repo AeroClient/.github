@@ -1,2 +1,2 @@
 # AEROCLIENT IS BACK
-[download here](https://aeroclient.xyz/download)
+[Download here.](https://aeroclient.xyz/download)
